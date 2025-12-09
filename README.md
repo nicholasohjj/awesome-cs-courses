@@ -35,7 +35,6 @@ The following icons are used throughout this list to indicate the types of mater
 
 ## Courses
 
---------
 ### Programming Languages
 
 - [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) **Principles of Compiler Design** *Swarthmore College* 🎥 💻 📝
@@ -108,8 +107,6 @@ The following icons are used throughout this list to indicate the types of mater
 - [L28](https://www.cl.cam.ac.uk/teaching/1516/L28/) **Advanced Functional Programming** *University of Cambridge*  📝 💻 📚
 	- This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
 	- This particular session was taught by a prominent OCaml programmer, Open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
-
--------
 
 ### Algorithms & Theory
 
@@ -201,8 +198,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- This course provides a challenging introduction to some of the central ideas of theoretical computer science. Beginning in antiquity, the course will progress through finite automata, circuits and decision trees, Turing machines and computability, efficient algorithms and reducibility, the P versus NP problem, NP-completeness, the power of randomness, cryptography and one-way functions, computational learning theory, and quantum computing. It examines the classes of problems that can and cannot be solved by various kinds of machines. It tries to explain the key differences between computational models that affect their power.
 	- [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
--------
-
 ### Artificial Intelligence
 
 - [CS 188](http://ai.berkeley.edu/home.html) **Introduction to Artificial Intelligence** *UC Berkeley* 🎥 💻 📝
@@ -284,8 +279,6 @@ The following icons are used throughout this list to indicate the types of mater
 - [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* 🎥 📝 💻 📚
 	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
 
--------
-
 ### Computer Graphics and Games
 
 - [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida* 🎥 📝 💻
@@ -320,8 +313,6 @@ The following icons are used throughout this list to indicate the types of mater
 	- A project-based course in which programmers and designers collaborate to make a computer game. This course investigates the theory and practice of developing computer games from a blend of technical, aesthetic, and cultural perspectives. Technical aspects of game architecture include software engineering, artificial intelligence, game physics, computer graphics, and networking. Aesthetic and cultural include art and modeling, sound and music, game balance, and player experience.
 - [CIS 5152](https://www.cs.cornell.edu/courses/cs5152/2025sp/) **Advanced Topics in Computer Game Development** *Cornell University* 💻 📝 📚
 	- Project-based follow-up course to CS/INFO 3152. Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions, or that can be commercialized.
-
--------
 
 ### Computer Security
 
@@ -362,8 +353,6 @@ and anti-analysis techniques.
 - [18-636](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013) **Browser Security** *Stanford* 🎥 📝
 	- The Web continues to grow in popularity as platform for retail transactions, financial services, and rapidly evolving forms of communication. It is becoming an increasingly attractive target for attackers who wish to compromise users' systems or steal data from other sites. Browser vendors must stay ahead of these attacks by providing features that support secure web applications. This course will study vulnerabilities in existing web browsers and the applications they render, as well as new technologies that enable web applications that were never before possible. The material will be largely based on current research problems, and students will be expected to criticize and improve existing defenses. Topics of study include (but are not limited to) browser encryption, JavaScript security, plug-in security, sandboxing, web mashups, and authentication.
 
--------
-
 ### Database Systems
 
 - [CS 186](https://cs186berkeley.net/) **Introduction to Database Systems** *UC Berkeley* 🎥 💻 📚 📝
@@ -376,16 +365,12 @@ and anti-analysis techniques.
 	- This course covers fundamental topics of DBMS, compared to CMU 15-721. 
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x)
 
--------
-
 ### Multimedia Information Retrieval
 
 - [CS 4300](http://www.cs.cornell.edu/courses/CS4300/2013fa/) **Information Retrieval (Fall 2013)** *Cornell University* 💻 📝 📚
 	- Studies the methods used to search for and discover information in large-scale systems. The emphasis is on information retrieval applied to textual materials, but there is some discussion of other formats.The course includes techniques for searching, browsing, and filtering information and the use of classification systems and thesauruses. The techniques are illustrated with examples from web searching and digital libraries.
 - [CS276](http://web.stanford.edu/class/cs276/index.html) **Information Retrieval and Web Search** *Stanford University* 📝 📚
 	- Basic and advanced techniques for text-based information systems: efficient text indexing; Boolean and vector space retrieval models; evaluation and interface issues; Web search including crawling, link-based algorithms, and Web metadata; text/Web clustering, classification; text mining.
-
--------
 
 ### Networking and Distributed Systems
 
@@ -421,8 +406,6 @@ and anti-analysis techniques.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
 
--------
-
 ### Parallel Computing
 
 - [CS 179](http://courses.cms.caltech.edu/cs179/) **GPU Programming** *Caltech*  💻 📝
@@ -451,8 +434,6 @@ and anti-analysis techniques.
 		- Parallel patterns: data partitioning, synchronization, and load balancing
 		- Examples of parallel numerical algorithms
 		- Applications from science and engineering
-
--------
 
 ### Software Engineering
 
