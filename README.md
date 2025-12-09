@@ -38,11 +38,11 @@ The following icons are used throughout this list to indicate the types of mater
 --------
 ### Programming Languages
 
-- [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) **Principles of Compiler Design** *Swathmore College* 🎥 💻 📝
+- [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) **Principles of Compiler Design** *Swarthmore College* 🎥 💻 📝
 	- Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
-	- [Course on Github](https://github.com/compilers-course-materials)
+	- [Course on GitHub](https://github.com/compilers-course-materials)
 	- [Notes](https://github.com/compilers-course-materials/cs75-s16-lectures)
-- [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) **Introduction to Programming Languages** *Swathmore College* 📝 💻
+- [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) **Introduction to Programming Languages** *Swarthmore College* 📝 💻
 	- Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
 	- [Labs](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html)
 - [CIS 194](http://www.seas.upenn.edu/~cis194/) **Introduction to Haskell** *Penn Engineering* 💻 📝
@@ -85,7 +85,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS 5470](http://matt.might.net/teaching/compilers/spring-2015/) **Compilers** *University of Utah* 💻 📝 📚
 	- If you're a fan of Prof Matt's writing on his [fantastic blog](http://matt.might.net/articles/) you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on [cheating](http://matt.might.net/teaching/compilers/spring-2015/#collaboration) the page has tons of interesting links on programming languages, parsing and compilers.
 - [CS 6118](http://www.cs.cornell.edu/courses/CS6118/2012fa/) **Types and Semantics** *Cornell University* 📝 📚
-	- Types and Semantics is about designing and understand programming languages, whether they be domain specific or general purpose. The goal of this class is to provide a variety of tools for designing custom (programming) languages for whatever task is at hand. Part of that will be a variety of insights on how languages work along with experiences from working with academics and industry on creating new languages such as Ceylon and Kotlin. The class focuses on types and semantics and the interplay between them. This means category theory and constructive type theory (e.g. Coq and richer variations) are ancillary topics of the class. The class also covers unconventional semantic domains such as classical linear type theory in order to both break students from conventional thinking and to provide powerful targets capable of formalizing thinks like networking protocols, resource-sensitive computation, and concurrency constructs. The class project is to design and formalize a (programming) language for a purpose of the student's choosing, and assignments are designed to ensure students have had a chance to practice applying the techniques learned in class before culminating these skills in the class project.
+	- Types and Semantics is about designing and understanding programming languages, whether they be domain specific or general purpose. The goal of this class is to provide a variety of tools for designing custom (programming) languages for whatever task is at hand. Part of that will be a variety of insights on how languages work along with experiences from working with academics and industry on creating new languages such as Ceylon and Kotlin. The class focuses on types and semantics and the interplay between them. This means category theory and constructive type theory (e.g. Coq and richer variations) are ancillary topics of the class. The class also covers unconventional semantic domains such as classical linear type theory in order to both break students from conventional thinking and to provide powerful targets capable of formalizing things like networking protocols, resource-sensitive computation, and concurrency constructs. The class project is to design and formalize a (programming) language for a purpose of the student's choosing, and assignments are designed to ensure students have had a chance to practice applying the techniques learned in class before culminating these skills in the class project.
 - [CSE 341](http://courses.cs.washington.edu/courses/cse341/16sp/) **Programming Languages** *University of Washington* 🎥 💻 📝
 	- Covers non-imperative paradigms and languages such as Ruby, Racket, and ML and the fundamentals of programming languages.
 	- [Lectures and Videos](https://courses.cs.washington.edu/courses/cse341/16sp/#lectures)
@@ -98,17 +98,16 @@ The following icons are used throughout this list to indicate the types of mater
   - In this MSc course you learn how to write correct and efficient concurrent and parallel software, primarily using Java, on standard shared-memory multicore hardware.
   - The course covers basic mechanisms such as threads, locks and shared memory as well as more advanced mechanisms such as parallel streams for bulk data, transactional memory, message passing, and lock-free data structures with compare-and-swap.
   - It covers concepts such as atomicity, safety, liveness and deadlock.
-  - It covers how to measure and understand performance and scalability of parallel programs.
-  - It covers tools and methods to find bugs in concurrent programs.
+  - It covers how to measure and understand performance and scalability of parallel programs, and tools and methods to find bugs in concurrent programs.
 - [6.945](https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html) **Adventures in Advanced Symbolic Programming** *MIT* 📝 💻 📚
-	- Taught by Gerald Sussman of SICP fame, this class deals with concepts and techniques for the design an implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications.
+	- Taught by Gerald Sussman of SICP fame, this class deals with concepts and techniques for the design and implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications.
 - [CS 696](http://www.eli.sdsu.edu/courses/fall15/cs696/index.html) **Functional Design and Programming** *San Diego State University* 📝 💻 📚
 	- Covers functional programming basis using Clojure.
 	- Topics include testing, functional programming, immutable collections and concurrency.
-	- Also includes assignments covering Clojurescript, [Reagent](Reagent Github) etc.
+	- Also includes assignments covering Clojurescript, [Reagent](Reagent GitHub) etc.
 - [L28](https://www.cl.cam.ac.uk/teaching/1516/L28/) **Advanced Functional Programming** *University of Cambridge*  📝 💻 📚
 	- This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
-	- This particular session was taught by a prominent OCaml programmer, open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
+	- This particular session was taught by a prominent OCaml programmer, Open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
 
 -------
 
@@ -128,7 +127,7 @@ The following icons are used throughout this list to indicate the types of mater
 	- CS 224 is an advanced course in algorithm design, and topics we will cover include the word RAM model, data structures, amortization, online algorithms, linear programming, semidefinite programming, approximation algorithms, hashing, randomized algorithms, fast exponential time algorithms, graph algorithms, and computational geometry.
 - [CS 261](https://timroughgarden.org/w16/w16.html) **A Second Course in Algorithms** *Stanford University* 🎥 💻 📝
 	- Algorithms for network optimization: max-flow, min-cost flow, matching, assignment, and min-cut problems. Introduction to linear programming. Use of LP duality for design and analysis of algorithms. Approximation algorithms for NP-complete problems such as Steiner Trees, Traveling Salesman, and scheduling problems. Randomized algorithms. Introduction to online algorithms.
-	- ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
+	- ([YouTube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 - [CS 473/573](http://jeffe.cs.illinois.edu/teaching/algorithms/) **Fundamental Algorithms** *Univ of Illinois, Urbana-Champaign* 💻 📝
 	- Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
 - [CS 2150](https://github.com/aaronbloomfield/pdr) **Program & Data Representation** *University of Virginia* 💻 📝
@@ -158,7 +157,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [15-451/651](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) **Algorithms** *Carnegie Mellon University* 📝
 	- The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and [Manuel Blum](http://en.wikipedia.org/wiki/Manuel_Blum) who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 - [16s-4102](http://www.cs.virginia.edu/~shelat/16s-4102/) **Algorithms** *University of Virginia* 🎥 💻 
-	- [Lecture Videos & Homeworks](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
+	- [Lecture Videos & Homeworks](http://www.cs.virginia.edu/~shelat/16s-4102/) ([YouTube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
 - [CIS 500](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html) **Software Foundations** *University of Pennsylvania* 💻 📝
 	- An introduction to formal verification of software using the Coq proof assistant. Topics include basic concepts of logic, computer-assisted theorem proving, functional programming, operational semantics, Hoare logic, and static type systems.
 	- [Lectures and Assignments](http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule)
@@ -225,7 +224,7 @@ The following icons are used throughout this list to indicate the types of mater
 	- Assignments are available on the organisation page titled as "practicals"
 - [CS20si](http://web.stanford.edu/class/cs20si/index.html) **Tensorflow for Deep Learning Research** *Stanford University* 💻 📝
 	- This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project. Through the course, students will use Tensorflow to build models of different complexity, from simple linear/logistic regression to convolutional neural network and recurrent neural networks with LSTM to solve tasks such as word embeddings, translation, optical character recognition. Students will also learn best practices to structure a model and manage research experiments.
-	- [Assignments](https://github.com/chiphuyen/tf-stanford-tutorials) available on Github.
+	- [Assignments](https://github.com/chiphuyen/tf-stanford-tutorials) available on GitHub.
 - [COMS 4771](http://www.cs.columbia.edu/~jebara/4771/index.html) **Machine Learning** *Columbia University* 💻 📝
 	- Course taught by [Tony Jebara](http://www.cs.columbia.edu/~jebara/resume.html) introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.
 	- [Lectures and Assignments](http://www.cs.columbia.edu/~jebara/4771/handouts.html)
@@ -244,11 +243,11 @@ The following icons are used throughout this list to indicate the types of mater
 	- Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models powering NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task-specific feature engineering. In this spring quarter course students will learn to implement, train, debug, visualize and invent their own neural network models. The course provides a deep excursion into cutting-edge research in deep learning applied to NLP.
 - [CS 229r](https://sites.google.com/g.harvard.edu/fall2022itforcs) **Algorithms for Big Data** *Harvard University* 🎥 💻 📝
 	- Big data is data so large that it does not fit in the main memory of a single machine, and the need to process big data by efficient algorithms arises in Internet search, network traffic monitoring, machine learning, scientific computing, signal processing, and several other areas. This course will cover mathematically rigorous models for developing such algorithms, as well as some provable limitations of algorithms operating in those models.
-	- ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
+	- ([YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
 - [CS 231n](http://cs231n.stanford.edu/) **Convolutional Neural Networks for Visual Recognition** *Stanford University* 💻 📝 🎥
 	- Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
-	- [Lecture Videos](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-	- [Github Page](http://cs231n.github.io/)
+	- [Lecture Videos](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) ([YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC))
+	- [GitHub Page](http://cs231n.github.io/)
 - [CS 287](http://www.cs.berkeley.edu/~pabbeel/cs287-fa19/) **Advanced Robotics** *UC Berkeley* 💻 📝
 	- The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization---two areas with wide applicability in modern Artificial Intelligence. An intended side-effect of the course is to generally strengthen your expertise in these two areas.
 - [CS 4780](http://www.cs.cornell.edu/courses/CS4780/) **Machine Learning** *Cornell University* 📝 📚
@@ -280,7 +279,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS246](http://web.stanford.edu/class/cs246/) **Mining Massive Data Sets** *Stanford University* 🎥 📝 💻 📚
 	- The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis will be on Map Reduce as a tool for creating parallel algorithms that can process very large amounts of data.
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) **Reinforcement Learning in the Wild** *Yandex SDA* 🎥 📝 💻 📚
-	- A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
+	- A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (Russian) and maintained to be friendly to online students (both English and Russian).
 	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus)
 - [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* 🎥 📝 💻 📚
 	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
@@ -442,8 +441,7 @@ and anti-analysis techniques.
   - In this MSc course you learn how to write correct and efficient concurrent and parallel software, primarily using Java, on standard shared-memory multicore hardware.
   - The course covers basic mechanisms such as threads, locks and shared memory as well as more advanced mechanisms such as parallel streams for bulk data, transactional memory, message passing, and lock-free data structures with compare-and-swap.
   - It covers concepts such as atomicity, safety, liveness and deadlock.
-  - It covers how to measure and understand performance and scalability of parallel programs.
-  - It covers tools and methods to find bugs in concurrent programs.
+  - It covers how to measure and understand performance and scalability of parallel programs, and tools and methods to find bugs in concurrent programs.
 - [CS 5220](https://www.cs.cornell.edu/courses/cs5220/2024fa/) **Applications of Parallel Computers** *Cornell University* 💻 📝 📚
 	- How do we solve the large-scale problems of science quickly on modern computers? How do we measure the performance of new or existing simulation codes, and what things can we do to make them run faster? How can we best take advantage of features like multicore processors, vector units, and graphics co-processors? These are the types of questions we will address in CS 5220, Applications of Parallel Computers. Topics include:
 		- Single-processor architecture, caches, and serial performance tuning
