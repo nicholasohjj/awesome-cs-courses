@@ -2,11 +2,12 @@
   <img src="https://raw.githubusercontent.com/nicholasohjj/awesome-cs-courses/main/awesome-cs-courses-logo.svg" alt="Awesome CS Courses" width="400">
 </p>
 
-# Awesome CS Courses [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CS Courses [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 
 ## Introduction
 
-Collection of university computer science courses that provide freely accessible, high-quality materials such as lectures, assignments, and exams.
+A curated list of university-level computer science courses with freely accessible materials, including lectures, assignments, and exams. These courses are selected for their depth, clarity, and long-term value for learners studying foundational or advanced CS topics.
 
 **Note:** Courses from ocw.mit.edu are not included in this list.
 
@@ -93,7 +94,6 @@ The following icons are used throughout this list to indicate the types of mater
 - [CS 374 – Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs498374/sp2015/) - Covers fundamental tools and techniques from theoretical computer science, including design and analysis of algorithms, formal languages and automata, computability, and complexity, with a strong focus on clear technical communication. 🎥 💻 📝
 - [CS 3110 – Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/CS3110/2014fa/) - Third programming course in the Computer Science curriculum, helping students become excellent programmers and software designers who can design and implement software that is elegant, efficient, and correct. 💻 📝 📚
 - [CS 3220 – Introduction to Scientific Computing](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/) - One-semester survey course introducing numerical methods for solving linear and nonlinear equations, interpolating data, computing integrals, and solving differential equations. 💻 📝 📚
-- [CS 4300 – Information Retrieval (Fall 2013)](http://www.cs.cornell.edu/courses/CS4300/2013fa/) - Studies methods used to search for and discover information in large-scale systems, with emphasis on information retrieval applied to textual materials, including techniques for searching, browsing, and filtering information. 💻 📝 📚
 - [CS 4810 – Introduction to Theory of Computing](https://www.dsteurer.org/toc13/) - Undergraduate course providing a broad introduction to the mathematical foundations of computer science, examining basic computational models, especially Turing machines, to understand what problems can or cannot be solved. 💻 📝 📚
 - [CS 6810 – Theory of Computing](https://complexity16.dsteurer.org/) - Graduate course giving a broad introduction to complexity theory, including classical results and recent developments, with a theme of combinatorial constructions with random-like properties. 💻 📝 📚
 - [6.045 – Great Ideas in Theoretical Computer Science](https://people.csail.mit.edu/rrw/6.045-2020/) - Challenging introduction to central ideas of theoretical computer science, progressing through finite automata, circuits and decision trees, Turing machines and computability, efficient algorithms, P versus NP, NP-completeness, randomness, cryptography, computational learning theory, and quantum computing. 📝 🎥 📚
@@ -173,7 +173,7 @@ The following icons are used throughout this list to indicate the types of mater
 - [6.824 – Distributed Systems](http://css.csail.mit.edu/6.824/2014/index.html) - MIT's graduate-level distributed systems course with focus on fault tolerance, replication, and consistency, all taught via lab assignments in Golang. 💻 📝
 - [CSEP 552 – Distributed Systems](http://courses.cs.washington.edu/courses/csep552/16wi/) - Graduate course on distributed systems covering abstractions and implementation techniques for construction of distributed systems, including client server computing, the web, cloud computing, peer-to-peer systems, and distributed storage systems. 🎥 💻 📝
 - [15-440 – Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/index.html) - Introduction to distributed systems with focus on teaching concepts via projects implemented in the Go programming language. 💻 📝
-- [15-749 – Engineering Distributed Systems](http://www.andrew.cmu.edu/course/15-749/) - Project focused course on Distributed Systems with a fantastic list of readings. 📚
+- [15-749 – Engineering Distributed Systems](http://www.andrew.cmu.edu/course/15-749/) - Project focused course on Distributed Systems with a comprehensive list of readings. 📚
 - [CS 5412 – Cloud Computing](http://www.cs.cornell.edu/Courses/CS5412) - Taught by Prof Ken Birman, this course has a fantastic set of slides covering cloud computing concepts. 📝 📚
 - [15-319/619 – Cloud Computing (ICS)](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html) - Project-based online course focusing on skill building across various aspects of cloud computing, covering conceptual topics and providing hands-on experience through projects utilizing public cloud infrastructures (AWS, Microsoft Azure, and Google Cloud Platform). 🎥 💻
 - [PODC – Principles of Distributed Computing](http://dcg.ethz.ch/lectures/podc_allstars/) - Explores essential algorithmic ideas and lower bound techniques, basically the "pearls" of distributed computing in an easy-to-read set of lecture notes, combined with complete exercises and solutions. 💻 📚 📝
@@ -256,12 +256,14 @@ Additional material, historical versions, and extra readings for some courses ar
 - **CSEP 552**: [Lectures](http://courses.cs.washington.edu/courses/csep552/13sp/video/) of a previous session are available to watch
 - **15-440**: [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
 - **15-749**: [Readings](http://www.andrew.cmu.edu/course/15-749/READINGS/)
-- **CS 5412**: Prof Ken Birman's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is recommended as a must read in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+- **CS 5412**: Prof Ken Birman's [book](http://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154) is referenced in the course in Google's tutorial on [Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 - **15-319/619**: [Lecture Notes](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html), [Videos](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
 - **15-418**: [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22)
 - **ECE 459**: [Lecture slides](https://github.com/patricklam/p4p-2015/tree/master/lectures)
 
 ## Contributing
+
+Only high-quality, university-level courses with complete and freely accessible materials (lectures, assignments, exams, or equivalent) may be added. Low-quality or incomplete resources will not be accepted.
 
 ### A couple of things to keep in mind:
 
